@@ -26,5 +26,3 @@ It showcases collections of Software Engineering and Programming books with a cl
 ## Preview
 *<img width="2543" height="1392" alt="image" src="https://github.com/user-attachments/assets/f5d013fb-03e3-4227-bce7-80bb9480fa75" />
 *  
-You can upload image files and link them like:  
-```markdown
