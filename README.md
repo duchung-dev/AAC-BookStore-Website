@@ -28,4 +28,3 @@ It showcases collections of Software Engineering and Programming books with a cl
 *  
 You can upload image files and link them like:  
 ```markdown
-![Homepage Screenshot](images/homepage.jpg)
